@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "bbd8",
+      "name": "Goku_1",
+      "email": "mankeb123@gmail.com",
+      "password": "Manmeet@12345",
+      "role": "seeker"
+    },
+    {
+      "id": "4be8",
+      "name": "Eren",
+      "email": "mankeb10023@gmail.com",
+      "password": "Manmeet@12345",
+      "role": "seeker"
+    }
+  ]
+}
